@@ -52,3 +52,6 @@ Mkfile.old
 dkms.conf
 
 .DS_store
+
+# folders that should be omitted
+obsolete/
